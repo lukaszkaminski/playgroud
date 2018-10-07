@@ -103,6 +103,6 @@ function IsNullOrEmptyString($str){
 $ew = new record();
 $ew->setCurrentMonth(12);
 $ew->setCurrentYear(2018);
-echo "AA";
+echo "BB ";
 
 ?>
